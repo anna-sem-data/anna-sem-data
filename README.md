@@ -42,7 +42,7 @@ Built a LangChain-powered support assistant using Pinecone and HuggingFace embed
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/semenowicz-anna/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/semenowicz-anna/)
 
 ---
 
