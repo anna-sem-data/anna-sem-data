@@ -35,6 +35,10 @@ My toolset includes Python, R, SQL, Docker, NLP tools (spaCy, HuggingFace), and 
 A deep learning NLP project to classify mental health risks from social media data.  
 *Tech: Python, LSTM, TensorFlow, spaCy*
 
+### 📈 TSMC Stock Price Forecasting  
+Forecasting TSMC’s stock price using LSTM and ARIMA models with market indicators like Nvidia, TAIEX, and the S&P 500.  
+*Tech: Python, TensorFlow, Keras, statsmodels, yfinance*
+
 ### 💬 RAG-Based Customer Support Bot  
 Built a LangChain-powered support assistant using Pinecone and HuggingFace embeddings.  
 *Tech: Python, LangChain, ChromaDB, Docker*
