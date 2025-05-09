@@ -24,7 +24,8 @@ My toolset includes Python, R, SQL, Docker, NLP tools (spaCy, HuggingFace), and 
 - **Languages**: Python, R, SQL
 - **Libraries & Tools**: scikit-learn, pandas, NumPy, spaCy, NLTK, HuggingFace, Matplotlib, LangChain, Tableau
 - **Data Engineering**: APIs, Pinecone, ChromaDB, Docker, ETL pipelines
-- **Business & Analytics**: Forecasting, A/B Testing, Marketing & Customer Insights
+- **Business & Analytics**: Forecasting, Statistical Modeling, A/B Testing, Marketing & Customer Insights
+- **Financial Technology**: Financial Planning & Management, DLTs, Blockchains
 
 ---
 
