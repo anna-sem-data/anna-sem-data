@@ -56,15 +56,15 @@ I’m a data-driven problem solver with a strong academic foundation, holding a 
 
 ## 📂 Featured Projects
 
-### 🧠 Mental Health Risk Detection
+### 🧠 [Mental Health Risk Detection](https://github.com/anna-sem-data/mental-health-prediction)
 A deep learning NLP project to classify mental health risks from social media data.  
 *Tech: Python, SVM, XGBoost, MLP, TensorFlow, spaCy*
 
-### 📈 TSMC Stock Price Forecasting  
+### 📈 [TSMC Stock Price Forecasting](https://github.com/anna-sem-data/stock-price-prediction)
 Forecasting TSMC’s stock price using LSTM and ARIMA models with market indicators like Nvidia, TAIEX, and the S&P 500.  
 *Tech: Python, TensorFlow, Keras, statsmodels, yfinance*
 
-### 💬 RAG-Based Customer Support Bot  
+### 💬 [RAG-Based Customer Support Bot](https://github.com/anna-sem-data/customer-support-rag-pipeline)
 Built a LangChain-powered support assistant using Pinecone and HuggingFace embeddings.  
 *Tech: Python, LangChain, ChromaDB, Docker*
 
