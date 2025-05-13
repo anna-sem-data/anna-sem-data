@@ -69,7 +69,7 @@ Built a LangChain-powered support assistant using Pinecone and HuggingFace embed
 *Tech: Python, LangChain, ChromaDB, Docker*
 
 ### 📊 Real-Time Sentiment Analyzer (WIP)
-Developing a real-time sentiment analysis tool for live events, powered by a RAG pipeline with context retrieval. Leveraging ChromaDB for vector storage and delivering dynamic sentiment insights through visualization.
+Developing a real-time sentiment analysis tool for live events, powered by a RAG pipeline with context retrieval. Leveraging ChromaDB for vector storage and delivering dynamic sentiment insights through visualization.  
 *Tech: Python, LangChain, ChromaDB, HuggingFace, Sentiment Analysis, Streamlit*
 
 ---
